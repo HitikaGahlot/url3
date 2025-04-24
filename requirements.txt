@@ -63,4 +63,4 @@ Werkzeug==3.0.6
 wrapt==1.17.0
 yarl==1.15.2
 qrcode==7.4.2
-Pillow==10.3.0
+Pillow==9.5.0
